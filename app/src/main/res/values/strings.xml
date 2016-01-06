@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shared Preferences Sample</string>
+    <string name="textView">Current Rating</string>
+    <string name="textView2">Max Rating</string>
+    <string name="button">Add Rate</string>
+    <string name="button2">Clear Current Rate</string>
+    <string name="button3">Clear All Rates</string>
+
+</resources>
